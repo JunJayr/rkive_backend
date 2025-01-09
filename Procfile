@@ -1,1 +1,0 @@
-web: gunicorn rkive_auth.wsgi --log-file - 
